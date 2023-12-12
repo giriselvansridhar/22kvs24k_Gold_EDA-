@@ -1,18 +1,7 @@
 # GoldRateAnalysis
 Gold Rate analysis and Visualization using Data Science, Python, Seaborn and Pandas
 
-![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/172441f0-d491-4c67-9801-619f8fddc79c)
 
-![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/13719697-679d-49ef-a924-5f8b8d68e000)
-
-
-![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/9c9d5359-c94e-4a26-878b-ffa23de4c352)
-
-
-![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/fbf3aa54-c726-40dd-9bc1-58575290be77)
-
-
-![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/4496a590-9d41-470d-a72f-3f5c949b9a7e)
 
 
 To understand intialial of data analysis, this project is created. 
@@ -26,4 +15,15 @@ This project includes
     4. average Monthly trend of the inputed year
 
 
+
+![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/62b93b96-1264-4509-9db6-9ad2ca685e9b)
+
+
+![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/e1fd09be-9df5-4192-9779-300605f7a903)
+
+![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/b01956c0-ff54-4a11-9122-bc53e0d7bd0c)
+
+![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/3419272a-d9aa-4287-8940-01ac0d6b4513)
+
+![image](https://github.com/giriselvansridhar/GoldRateAnalysis/assets/131362593/4b2c7ee8-09ca-4bed-99d2-27173ba93590)
 
